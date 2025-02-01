@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "BackroomsWiki",
+    "slug": "BackroomsWiki",
+    "version": "1.0.0",
+    "owner": "dfgsd",
+    "orientation": "portrait",
+    "icon": "./assets/Smiler_simples.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Smiler_simples.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dfgsd.BackroomsWiki"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4809cd18-0881-42ff-bac6-a1391a104ed6"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4809cd18-0881-42ff-bac6-a1391a104ed6"
+    }
+  }
+}
