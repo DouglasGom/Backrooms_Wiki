@@ -1,5 +1,0 @@
-export * from './Text'
-export * from './Container'
-export * from './Logo'
-export * from './Logo_simples'
-export * from './GoBack'
